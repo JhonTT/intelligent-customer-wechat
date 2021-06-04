@@ -19,7 +19,7 @@
         <fastjson.version>1.2.58</fastjson.version>
         <commons-net.version>3.6</commons-net.version>
         <commons-codec.version>1.12</commons-codec.version>
-        <httpclient.version>4.5.8</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <dom4j.version>2.1.1</dom4j.version>
     </properties>
 
